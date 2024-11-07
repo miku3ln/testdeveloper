@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CNE\\workspace\\Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573394B1-B8E4-424E-8582-4F2BCF0AEBD3}|WeatherApi\\WeatherApi.csproj|d:\\projects\\cne\\workspace\\weather\\weatherapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{573394B1-B8E4-424E-8582-4F2BCF0AEBD3}|WeatherApi\\WeatherApi.csproj|solutionrelative:weatherapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573394B1-B8E4-424E-8582-4F2BCF0AEBD3}|WeatherApi\\WeatherApi.csproj|d:\\projects\\cne\\workspace\\weather\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573394B1-B8E4-424E-8582-4F2BCF0AEBD3}|WeatherApi\\WeatherApi.csproj|solutionrelative:weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CNE\\workspace\\Weather\\WeatherApi\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\CNE\\workspace\\Weather\\WeatherApi\\Program.cs",
+              "RelativeToolTip": "WeatherApi\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:32:39.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projects\\CNE\\workspace\\Weather\\WeatherApi\\Dockerfile",
+              "RelativeDocumentMoniker": "WeatherApi\\Dockerfile",
+              "ToolTip": "D:\\Projects\\CNE\\workspace\\Weather\\WeatherApi\\Dockerfile",
+              "RelativeToolTip": "WeatherApi\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T20:24:08.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

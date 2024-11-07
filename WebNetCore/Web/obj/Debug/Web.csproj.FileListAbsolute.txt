@@ -1,0 +1,7 @@
+D:\Projects\CNE\workspace\WebNetCore\Web\bin\Web.dll.config
+D:\Projects\CNE\workspace\WebNetCore\Web\bin\Web.dll
+D:\Projects\CNE\workspace\WebNetCore\Web\bin\Web.pdb
+D:\Projects\CNE\workspace\WebNetCore\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Projects\CNE\workspace\WebNetCore\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Projects\CNE\workspace\WebNetCore\Web\obj\Debug\Web.dll
+D:\Projects\CNE\workspace\WebNetCore\Web\obj\Debug\Web.pdb
